@@ -1,7 +1,7 @@
 
 # Dynamic Attention OCR
 
-Visual attention-based OCR model for image recognition with dynamic RNN.
+Visual attention-based OCR model for image recognition with additional **dynamic RNN** and **beam search**.
 
 # Acknowledgements
 
